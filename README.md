@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="ct1735x.png">
+    <img src="assets/logo.png">
 </p>
-<h3 align="center"><img src="php.gif" width="40px"> Web developer | Technology & gaming enthusiast <img src="php.gif" width="40px"> </h3>
+<h3 align="center"><img src="assets/php.gif" width="40px"> Web developer | Technology & gaming enthusiast <img src="assets/php.gif" width="40px"> </h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Age-22-purple" />
@@ -10,9 +10,9 @@
 </p>
 <hr>
 <p align="center">
-    <img src="banner.gif">
+    <img src="assets/banner.gif" width="100%">
 </p>
 <p align="center">
-    <img src="linkedin.png" width="13px"> <a href="https://linkedin.com/in/clemt35">LinkedIn</a>
+    <img src="assets/linkedin.png" width="13px"> <a href="https://linkedin.com/in/clemt35">LinkedIn</a>
 </p>
 <hr>
